@@ -1,5 +1,5 @@
 # testrepo
 my new repository
 
-Hi everyone my name is neha Dhongade
-I am from nagpur and completed my btech in CSE.
+<p>Hi everyone my name is neha Dhongade.</p>
+<p>I am from nagpur and completed my btech in CSE from GHRCE nagpur.</p>
